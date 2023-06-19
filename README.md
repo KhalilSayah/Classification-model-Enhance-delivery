@@ -1,3 +1,5 @@
+# Read this article : https://medium.com/@sayahkhalilpro/how-i-won-my-first-kaggle-competition-for-beginners-alphabit-club-algeria-94f1fca94b92
+
 # A little introduction…
 Alphabit, host of the competition, is an Algerian university club (ESI) focused on artificial intelligence.
 The competition was in the form of a 36h datathon, hosted on Kaggle, it had 3 challenges (Regression — Classification — Clustering).
